@@ -3,6 +3,8 @@ OkHttp
 
 An HTTP & HTTP/2 client for Android and Java applications. For more information see [the website][1] and [the wiki][2].
 
+This fork of OkHttp transparently implements the client side of the Bitsy compression protocol. 
+
 Download
 --------
 
